@@ -12,8 +12,8 @@ Questions I ask myself:
 - Is it easily exploitable from a easy to access tool vs series of conditions that needs to met to make this happen
 - Identify changes that can be made either config or coding wise to prevent the underiable
 4. How much time and effort is it required to
-    a. place controls (legacy applications)
-    b. fix the issue.
+    - a. place controls (legacy applications)
+    - b. fix the issue.
 5. Did you do a good job of it?
 - Re-assessing to see how much risk was reduced.
 
